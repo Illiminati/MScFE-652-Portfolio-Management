@@ -1,8 +1,4 @@
-This file was created by CMPT_ME_BEME_RETS_DAILY using the 202405 CRSP database.
-The Tbill return is the simple daily rate that, over the number of trading days
-in the month, compounds to 1-month TBill rate from Ibbotson and Associates Inc.
-
-,Mkt-RF,SMB,HML,RF
+Date,Mkt-RF,SMB,HML,RF
 19260701,    0.10,   -0.25,   -0.27,   0.009
 19260702,    0.45,   -0.33,   -0.06,   0.009
 19260706,    0.17,    0.30,   -0.39,   0.009
@@ -25757,5 +25753,3 @@ in the month, compounds to 1-month TBill rate from Ibbotson and Associates Inc.
 20240529,   -0.77,   -0.29,   -0.62,   0.020
 20240530,   -0.53,    1.04,    1.00,   0.020
 20240531,    0.68,   -0.36,    0.78,   0.020
-
-Copyright 2024 Kenneth R. French
